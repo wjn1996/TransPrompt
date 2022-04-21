@@ -8,7 +8,9 @@ and make the Pre-trained Language Model (PLM) better few-shot transfer learner.
 Our proposed framework is accepted by the main conference (long paper track) in EMNLP-2021. 
 This code is the default multi-GPU version. We will teach you how to use our code in the following parts.
 
-Ps: We also commit the code in [Alibaba EasyNLP](https://github.com/alibaba/EasyNLP/tree/master/examples/transprompt).
+> Ps: This project is also committed at [Alibaba EasyNLP](https://github.com/alibaba/EasyNLP/tree/master/examples/transprompt)(阿里云PAI).
+> We will very **HAPPY** if you **star** and **fork** our projects!
+
 
 ### 1. Data Preparation
 
